@@ -1,0 +1,13 @@
+Ans - 1 I have choose to build a Portfolio website using React. In this portfolio i have given the personal details and some of my technical skills. I gave the specefic name to this website.
+
+Ans - 2 I choose this project becuase it is very relevent for placements. I can show all my projects through this portfolio. I can show my technical skills whichever I have mentioned in it.
+
+Ans - 3 I have used simply HTML, CSS, JavaScript, and ReactJS and Use of Git to showcase my projects.
+
+Ans - 4 First problem I have faced in that is the connection with React App and Installing ReactJS. After that I have got confusion between file connections due to similar filee names and
+        I faced problem in designing the website using ReactJs. Beacuse I am very beginner to react. I am very comfortable with HTML CSS and JavaScript but not much in ReactJS.
+        I face many error in creating in portfolio and many visuals error in website.
+Ans - 5 I have solved the react connection and Installment problem with re-watching our lecturer recording videos and with the help of youtube. The confusion which was created I have remove 
+        them by changing the file name and creating new and diffewrent folder for every task. I search the google the problem whichever I have faced during execution of code and rectify
+        that one by one. I have fix the UI error with the help of google chrome console. It helps me lot in that.
+        
